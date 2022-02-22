@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles by the grace of God, King of England, Scotland, France, and Ireland, defendor of the faith, &amp;c. to all and every our loving subiects to whom these presents shall come or to whom it doth, shall or may appertaine greeting whereas we ar[e] seized in fee in right of our dutchie of Lancaster of and in the tolle, aswell of carts and wagons laden with wood, corne, oyle, wooll, wine or any kind of merchandizes saleable ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22602</idno>
+            <idno type="STC">STC 9058.7</idno>
+            <idno type="STC">ESTC S805</idno>
+            <idno type="EEBO-CITATION">22460290</idno>
+            <idno type="OCLC">ocm 22460290</idno>
+            <idno type="VID">25564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1775:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles by the grace of God, King of England, Scotland, France, and Ireland, defendor of the faith, &amp;c. to all and every our loving subiects to whom these presents shall come or to whom it doth, shall or may appertaine greeting whereas we ar[e] seized in fee in right of our dutchie of Lancaster of and in the tolle, aswell of carts and wagons laden with wood, corne, oyle, wooll, wine or any kind of merchandizes saleable ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>T. Harper?,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1636]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>"Giuen at our said pallace of Westmins[te]r under the seale of our dutchie of Lanca[st]er aforesaid the seventh of Aprill in the twelfth yeare of our raigne."</note>
+                  <note>Imperfect: creased with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Great Britain --  History --  17th century.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:25564:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES <hi>by the Grace of God, King of England, Scotland, France, and Ireland, defendor of the Faith, &amp;c.</hi>
+               </signed>
+               <salute>To all and every our loving ſubiects to whom theſe preſents ſhall come or to whom it doth, ſhall or may appertaine greeting.</salute>
+            </opener>
+            <p>Whereas we ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeized in fee in Right of our Dutchie of <hi>Lancaſter</hi> of and in the Tolle, aſwell of Carts and Wagons laden with wood, corne, oyle, wooll, wine or any kind of merchan<g ref="char:EOLhyphen"/>dizes ſaleable, as of horſes laden with an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kinde of the ſaid Merchandizes, and of Cattell as oxen, ſteeres, kine, ſheepe, lambes, hogges, and ſuch l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke paſſing through and over the Townes and bridges of <hi>Hart<g ref="char:EOLhyphen"/>ford, Ware, Stanſted, Theale, Hatfield</hi> and <hi>Belbarre</hi> in our County of <hi>Hartford;</hi> which ſaid Tolles in the Townes of <hi>Hartford Ware</hi> and <hi>Stanſted</hi> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve beene (as we are credibly informed) from time to time col<g ref="char:EOLhyphen"/>lected and gathered by ſuch as have bee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e farmers thereof to us and our Progenitors, and a great yearely rent therefore anſwered to our uſe and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he uſe of our ſaid Progenitors and parcell of the revenues of our ſaid Dutchie. And whereas we are likewiſe informed that tolle for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the things before mentioned hath been taken in <hi>Hatfield</hi> and <hi>Belbarre</hi> neere unto the ſame in the right of our ſaid Dutchie, whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tolle in the places laſt above mentioned by the negligence of our farmers there hath beene diſcontinued and decayed to our diſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heriſon and the diminiſhing and decreaſe of our Rents and Re<g ref="char:EOLhyphen"/>venues of our ſaid Duchie. <hi>We</hi> willing to preſerve our inheritance i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the premiſes and not to looſe that which of right apperteineth therin: doe by theſe preſents declare and ſignifie our will and pleaſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to be. And doe therfore ſtraightly charge &amp; command and en<g ref="char:EOLhyphen"/>ioyne all and every our ſaid ſubiects whom it doth or may concerne, that ſhall paſſe through <hi>Hatfield</hi> and <hi>Belbarre</hi> or any of the Townes or Bridges aforeſaid or either or any of them reſpectively, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th any Cart, Waine, Waggon or Horſe loaden with any the mer<g ref="char:EOLhyphen"/>chandizes aforeſaid or with any other merchandizes whatſoever ſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d or to be ſold, or which ſhall drive any droves, of any ſuch cattell as aforeſaid <unclear>through <hi>Hatfield or Belbarre</hi>
+               </unclear> or any of our tow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es or bridges aforeſaid or either or any of them ſold or to bee ſold upon paine of five hundred pounds a peece to be levyed upon h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s their and every or any of their Lands, Tenements, Goods and Chattells to our uſe; that he they and every or any of them forthwith upon ſight or knowledge hereof doe pay unto <hi>Nathaniel Weſton</hi> our Farmer thereof or his deputie or deputies aſſigne or aſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ignes lawfully appointed and authoriſed for collection of the ſame. All ſuch ſume and ſumes of mony as are due and have been uſed and anciently paid to the Farmour and Farmours of the ſaid tolle in all or any of the place or places aforeſaid heretofore by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſpace of Forty yeares now laſt paſt as oft as he or they or any of them ſhall paſſe through and over the ſaid Towne and Bridges <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd either or any of them without anie reſiſtance or deniall of anie of our ſaid ſubjects or any of them upon the paine and pe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ltie aforeſaid, and as he and they and everie or any of them will avoid our diſpl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſure and anſwer the contrary at his and their and every of any of their perils unleſſe ſuch perſon or perſons ſo refuſing to pay tol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as aforeſaid can or doe ſhew forth ſome cha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er record or writing of priviledge for diſcharge thereof. And to the end that all and every our loving ſubiects may underſtand and take notice and knowledge what ſumme or ſummes of monies he or they ought to pay to our ſaid Farmer for the premiſes reſpectively, and that no other or greater ſumme of ſummes of mony may be exacted or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equired of them or any of them by colou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the premiſes. We have by the advice of our Chancellour and counſell of our ſaid Dutchie cauſe ſuch particular Rates there unto bee herein expreſſed and ſet downe as have beene heretofore uſually paid for the premiſes: To wit for all carts, waines <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r waggons laden with any kinde of Merchandizes to bee ſold two pence a pence, for horſes wanted, a penny a Horſe, for Horſes not wanted a halfe penny a Horſe, for Horſes loaden with Corne, a Farthing a Horſe, and for droves of cattell, as Horſe, oxen, ſteeres, kine and ſuch like foure pence the skore, and for ſheepe and Lambes and the like, two pence the skore. And for their b<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſatisfaction and knowledge hereof and herein: We will and command all Maiors, Bailiffs and other <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the aforeſaid Townes and every of them reſpectively, that they and every of them upon requeſt to them made on our behal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forthwith doe publiſh theſe our Letters in the open markets and other publique places of the ſaid townes and every of them by r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ading the ſame. And further alſo that they and every of them our ſaid Officers, and all our Iuſtices of Peace and other our officers <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and in our ſaid County be aiding counſelling helping and aſſiſting our ſaid Farmer is deputie and deputies, aſſigne or aſſignes f<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m time to time as the caſe ſhall require in the due Collection of the ſaid tolle as aforeſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d as they and every of them will anſwe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the contrary at their and every of their perils.</p>
+            <closer>
+               <dateline>Giuen at our ſaid Pallace of Weſtminſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r under the ſeale of our Dutchie of Lanca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ter aforeſaid <date>the ſeventh of Aprill in the twelfth yeare of our raigne.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
